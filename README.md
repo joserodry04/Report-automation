@@ -29,7 +29,8 @@ El sistema carga múltiples archivos CSV, realiza limpieza de datos, genera mét
 
 ## Flujo de trabajo
 
-Clásico flujo de ETL
+Clásico flujo ETL
+
 CSV → Limpieza → Análisis → Gráficas → Reporte PDF
 
 ## Resultados
