@@ -1,0 +1,65 @@
+       REPORTE EJECUTIVO GENERAL
+===============================================
+
+Ingresos Total Genera
+$484,800.00
+
+
+3. TOP 3 PRODUCTOS MÁS VENDIDOS
+producto  ingresos
+  Laptop    345000
+ Monitor     84000
+ Teclado     28800
+   Mouse     27000
+El producto más retable: Laptop ($345,000.00)
+ mostrando una fuerte dependencia en este producto
+
+1. ANÁLISIS GEOGRÁFICO
+     pais  ingresos
+   Mexico    225800
+ Colombia    106500
+     Peru     65200
+Argentina     47000
+    Chile     40300
+Se observó que existe una dependencia en: Mexico ($225,800.00) siendo este nuestro
+ lider del mercado
+
+2. TOP 5 CLIENTES (VALOR)
+cliente  ingresos
+  Sofia    114300
+    Ana     66900
+  Lucia     65200
+  Pedro     59100
+ Carlos     47400
+
+Nuestro mejor cliente: Sofia ($114,300.00),representando el 23.6% de los ingresos totales
+
+4. RENDIMIENTO POR DÍA DE LA SEMANA
+fecha
+Monday       86300
+Tuesday      83800
+Wednesday    70000
+Thursday     71500
+Friday       70400
+Saturday     64700
+Sunday       38100
+
+El mejor día en ventas fue: Monday ($86,300.00)
+
+INSIGHTS:
+===============================================
+TOTAL GLOBAL DE INGRESOS: $484,800.00
+1. Existe una alta concentración de ingresos: proviene de un solo producto y de un único cliente, lo que representa un riesgo significativo para la estabilidad del negocio.
+2. Un solo cliente es el 38.64% de los ingresos en clientes
+3. Un solo producto es el 71.2% de los ingresos
+4. semanalmente el mercado está balaceado, a excepcion de un dia crítico
+5. fines de semana las ventas son nulas
+===============================================
+CONCLUSIÓN:
+
+Gracias al análisis realizado, se obtivieron
+ datos importantes para el negocio, por lo que se recomienda lo siguiente:
+1. Diversificación en el mercado, mejorando su marketing
+2. Tener en cuenta estrategias de upselling o bundling
+3. Realizar ventas cruzadas para aumentar ventas en productos bajos
+4. Realizar ofertas relampago los fines de semana

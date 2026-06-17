@@ -1,0 +1,9 @@
+[2026-06-17 15:04:03] ----Inicio del Proceso----
+[2026-06-17 15:04:03] Carpeta datos creada automaticamente
+[2026-06-17 15:04:03] No se encontraron archivos en /datos, buscando en carpeta principal...
+[2026-06-17 15:04:03] Datos cargados correctamente
+[2026-06-17 15:04:03] Revision de datos rapida, realizada
+[2026-06-17 15:04:03] Datos limpios y cálculos realizados
+[2026-06-17 15:04:08] Reporte TXT generado correctamente
+[2026-06-17 15:04:09] Reporte PDF finalizado
+[2026-06-17 15:04:09] ----Script finalizado----
