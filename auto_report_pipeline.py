@@ -121,9 +121,6 @@ def grafica_dia(serie):
 def generar_reporte(df_productos, df_pais, df_clientes, serie_temporal):
     with open(obtener_ruta("reporte.txt"), "w", encoding="utf-8") as f:
         #calculos
-        # .iloc[0]["columna"] se usa para obtener un valor específico de la PRIMERA FILA.
-        # El [0] indica la posición (fila 1) y ["columna"] el nombre del dato que queremos.
-        # Como nuestros datos ya están ordenados de mayor a menor, la fila 0 siempre es el "Top 1".
         ingreso_tot = df_pais["ingresos"].sum()
         mejor_pais = df_pais.loc[df_pais['ingresos'].idxmax(), 'pais']
         val_pais = df_pais.iloc[0]['ingresos']
@@ -133,7 +130,7 @@ def generar_reporte(df_productos, df_pais, df_clientes, serie_temporal):
         mejor_prod = df_productos.iloc[0]['producto']
         val_prod = df_productos.iloc[0]['ingresos']
         porcentaje_prod = (val_prod / ingreso_tot) * 100
-        mejor_dia = serie_temporal.idxmax()#aqui si aplica el idxmax por que son valores en serie
+        mejor_dia = serie_temporal.idxmax()
         val_dia = serie_temporal.max()
 
         f.write("       REPORTE EJECUTIVO GENERAL\n")
